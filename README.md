@@ -1,16 +1,47 @@
-## extention in ubuntu
+# Welcome to my blog
+I am computer science. Today, I would like to introduce with you some themes which helps your terminal become more flexible and beautiful.
 
-- typora
-- oh my zsh
+---
+### Oh my zsh
+
+#### extension zsh
+1. Theme:
+
+    a. powerlevel10k
+
+    b. Purepower
+
 - zsh suggestion
-- zsh syntax highlighting
-- powerlevel10k
-- purepower
-- z plugin
- 
-# config-summary
+- zsh highlight
 
-## some neccessary command line
+ plugins=(
+     z 
+     git
+     zsh-autosuggestions
+     zsh-syntax-highlighting
+ )
+
+### plugin z
+
+---
+
+### several application: Kitty, typora(markdown), oh my zsh
+
+---
+
+### Font :
+- fina code
+
+---
+
+### Vim config
+
+create .vimrc 
+
+---
+## several neccessary command line
 
 > source .zshrc
+
+
 
