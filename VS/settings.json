@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {},    
+    "workbench.startupEditor": "newUntitledFile",
+    
+    "material-icon-theme.folders.color": "#42a5f5",
+
+    "editor.rulers": [
+        90
+    ],
+    
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "500", // Bold        
+    "editor.fontSize": 15,
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": true,    
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "editor.renderIndentGuides": true,
+    "editor.renderControlCharacters": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.hideCursorInOverviewRuler": false,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "editor.mouseWheelZoom": false,
+    "editor.renderLineHighlight": "all",
+    "editor.cursorBlinking": "solid",
+    "editor.formatOnPaste": true,
+    "editor.suggestSelection": "first",
+    "editor.fontLigatures": true,
+    "editor.largeFileOptimizations": false,    
+    "editor.tokenColorCustomizations": {
+        "[Monokai]": {}
+    },
+  
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontSize": 13,
+
+    "explorer.confirmDelete": true,
+
+    "window.zoomLevel": -1,
+    "window.titleBarStyle": "custom",
+
+    "workbench.activityBar.visible": false,    
+    "workbench.statusBar.visible": true
+}
