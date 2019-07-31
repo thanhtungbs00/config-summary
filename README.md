@@ -9,3 +9,8 @@
 - z plugin
  
 # config-summary
+
+## some neccessary command line
+
+> source .zshrc
+
