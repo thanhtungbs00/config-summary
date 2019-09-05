@@ -43,5 +43,6 @@ create .vimrc
 
 > source .zshrc
 
-
+## Generate SSH key
+ssh-keygen -t rsa -b 4096 -C "thanhtungbs00@gmail.com"
 
