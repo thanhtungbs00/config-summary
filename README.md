@@ -48,7 +48,7 @@ ssh-keygen -t rsa -b 4096 -C "thanhtungbs00@gmail.com"
 
 ## Latex in MacOS
 1. Download Texstudio + MacTex + MikTex
-2. Edit them in /VS/Solarized_Dark{Light}
+2. Edit them in /VS/Solarized_Dark{Light} or copy all file in /VS/texstudio.init
 
 Path: ~/.config/texstudio/texstudio.ini
 1. Open `texstudio.ini` with notepad or some such
